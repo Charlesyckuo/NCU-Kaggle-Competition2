@@ -1,4 +1,4 @@
-# Kaggle Competition 2 - 113522042
+# Kaggle Competition 2
 
 This repository contains the code and data for a Kaggle competition participated during a master's course. The project focuses on sequence data analysis, including training a model to make predictions based on time series data. Below, you will find details on the project structure, requirements, and instructions for running the code.
 
