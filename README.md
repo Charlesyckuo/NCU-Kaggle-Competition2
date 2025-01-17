@@ -5,6 +5,7 @@ This repository contains the code and data for a Kaggle competition participated
 ---
 
 ## Project Structure
+```plaintext
 ├── Code_and_data
 │   ├── train_data.csv            # Training dataset
 │   ├── test_data.csv             # Testing dataset
@@ -13,7 +14,7 @@ This repository contains the code and data for a Kaggle competition participated
 │   ├── submission.csv            # Final model predictions
 │   ├── final.py                  # Main script for training and prediction
 │   ├── time_order_mean.py        # Script to analyze time sequence statistics
-
+```
 ---
 
 ## Requirements
