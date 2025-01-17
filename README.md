@@ -5,14 +5,8 @@ This repository contains the code and data for a Kaggle competition participated
 ---
 
 ## Project Structure
+├── Code_and_data │ ├── train_data.csv # Training dataset │ ├── test_data.csv # Testing dataset │ ├── sample_submission.csv # Sample submission format │ ├── sequence_lengths.csv # Generated time sequence lengths │ ├── submission.csv # Final model predictions │ ├── final.py # Main script for training and prediction │ ├── time_order_mean.py # Script to analyze time sequence statistics
 
-├── train_data.csv # Training dataset │ 
-├── test_data.csv # Testing dataset │ 
-├── sample_submission.csv # Sample submission format │ 
-├── sequence_lengths.csv # Generated time sequence lengths │ 
-├── submission.csv # Final model predictions │ 
-├── final.py # Main script for training and prediction │ 
-├── time_order_mean.py # Script to analyze time sequence statistics
 ---
 
 ## Requirements
@@ -59,9 +53,3 @@ To train the model and make predictions:
 
 1. **GPU Compatibility**: Ensure your system's CUDA version is compatible with the installed PyTorch version.
 2. **Environment Setup**: If using Conda, the environment can be directly initialized with `kaggle2.yml`.
-
----
-
-## Contact
-
-If you have any questions or encounter issues, feel free to open an issue in this repository.
